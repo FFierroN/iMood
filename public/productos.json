@@ -1,0 +1,81 @@
+[
+  {
+    "id": "airpods-4",
+    "codigo": 1,
+    "categoria": "Audio",
+    "nombre": "AirPods 4",
+    "subtitulo": "Diseño abierto, sin almohadillas",
+    "precio": 129990,
+    "imagenes": ["img/airpods-4/1.webp", "img/airpods-4/2.webp"],
+    "descripcion": "Rediseñados para un ajuste más cómodo durante todo el día. Elige la versión estándar o la que trae cancelación activa de ruido, carga inalámbrica y parlante en el estuche.",
+    "specs": [
+      { "icono": "chip", "titulo": "Chip", "valor": "H2" },
+      { "icono": "bateria", "titulo": "Batería", "valor": "Hasta 5 h · 30 h con estuche" },
+      { "icono": "audio", "titulo": "Sonido", "valor": "Audio espacial personalizado" },
+      { "icono": "agua", "titulo": "Resistencia", "valor": "IP54 (polvo, sudor y agua)" },
+      { "icono": "carga", "titulo": "Carga", "valor": "Estuche USB-C" }
+    ],
+    "variantes": [
+      { "nombre": "Estándar", "precio": 129990 },
+      { "nombre": "Con cancelación de ruido", "precio": 179990, "nota": "Agrega cancelación activa de ruido, modo Ambiente, carga inalámbrica y parlante en el estuche." }
+    ],
+    "visible": true
+  },
+  {
+    "id": "airpods-pro-2",
+    "codigo": 2,
+    "categoria": "Audio",
+    "nombre": "AirPods Pro 2",
+    "subtitulo": "Cancelación activa de ruido",
+    "precio": 219990,
+    "imagenes": ["img/airpods-pro-2/1.webp", "img/airpods-pro-2/2.webp", "img/airpods-pro-2/3.webp"],
+    "descripcion": "Silencio cuando lo necesitas y modo Ambiente cuando quieres escuchar tu entorno. Control táctil en el tallo e incluye almohadillas en cuatro tallas (XS, S, M y L).",
+    "specs": [
+      { "icono": "ruido", "titulo": "Cancelación de ruido", "valor": "Activa + Audio Adaptativo" },
+      { "icono": "bateria", "titulo": "Batería", "valor": "Hasta 6 h · 30 h con estuche" },
+      { "icono": "chip", "titulo": "Chip", "valor": "H2" },
+      { "icono": "agua", "titulo": "Resistencia", "valor": "IP54 (audífonos y estuche)" },
+      { "icono": "carga", "titulo": "Estuche", "valor": "MagSafe USB-C con parlante" }
+    ],
+    "visible": true
+  },
+  {
+    "id": "airpods-pro-3",
+    "codigo": 3,
+    "categoria": "Audio",
+    "nombre": "AirPods Pro 3",
+    "subtitulo": "Lo más nuevo en cancelación de ruido",
+    "precio": 279990,
+    "imagenes": ["img/airpods-pro-3/1.webp", "img/airpods-pro-3/2.webp", "img/airpods-pro-3/3.webp"],
+    "descripcion": "Más cancelación de ruido, mejor ajuste con almohadillas de espuma (tallas XXS a L) y sensor de frecuencia cardíaca para medir tu pulso al entrenar.",
+    "specs": [
+      { "icono": "ruido", "titulo": "Cancelación de ruido", "valor": "Activa, nueva generación" },
+      { "icono": "corazon", "titulo": "Salud", "valor": "Sensor de frecuencia cardíaca" },
+      { "icono": "bateria", "titulo": "Batería", "valor": "Hasta 8 h · 24 h con estuche" },
+      { "icono": "agua", "titulo": "Resistencia", "valor": "IP57 (polvo, sudor y agua)" },
+      { "icono": "carga", "titulo": "Estuche", "valor": "MagSafe USB-C con parlante" }
+    ],
+    "visible": true
+  },
+  {
+    "id": "cargador-20w",
+    "codigo": 4,
+    "categoria": "Carga",
+    "nombre": "Cargador 20W USB-C",
+    "subtitulo": "Carga rápida para iPhone",
+    "precio": 24990,
+    "imagenes": ["img/cargador-20w/1.webp", "img/cargador-20w/2.webp", "img/cargador-20w/3.webp"],
+    "descripcion": "Adaptador de corriente USB-C de 20 W con carga rápida: hasta 50 % de batería en unos 30 minutos. Elige el cable según tu iPhone.",
+    "specs": [
+      { "icono": "rayo", "titulo": "Potencia", "valor": "20 W, carga rápida" },
+      { "icono": "carga", "titulo": "Conector", "valor": "USB-C" },
+      { "icono": "cable", "titulo": "Cable", "valor": "1 m" }
+    ],
+    "variantes": [
+      { "nombre": "Cable USB-C a USB-C", "precio": 24990, "nota": "Para iPhone 15 o posterior, iPad y AirPods con USB-C." },
+      { "nombre": "Cable USB-C a Lightning", "precio": 24990, "nota": "Para iPhone 8 a iPhone 14 y AirPods con Lightning." },
+      { "nombre": "Solo adaptador 20W", "precio": 17990, "nota": "Sin cable, para usar con el que ya tienes." }
+    ],
+    "visible": true
+  }
+]
