@@ -15,6 +15,6 @@ PWA con Vite + JavaScript (sin framework), basada en el catálogo Bruma
 ## Reglas del proyecto
 - WhatsApp: un solo número (`WA_NUMERO` en `src/main.js`). El mensaje lleva solo el nombre del
   producto (y la variante si aplica), sin número de catálogo.
-- Precios en CLP. Los actuales son ficticios hasta que Felipe entregue los reales.
+- Proyecto de portafolio: los productos y precios (CLP) son ficticios y pueden no ser realistas.
+  No hace falta validar precios, stock ni procedencia; el foco está en el diseño y el funcionamiento.
 - Todavía no hay filtros, pero se agregarán: usar el campo `categoria` cuando llegue el momento.
-- No describir productos como "originales" ni usar logos de Apple en la interfaz sin confirmar con Felipe.
